@@ -132,7 +132,6 @@ def post_process_exp(df, exp_id):
               'discount_titrate': discount_titrate_post,
               'digit_span': span_post,
               'directed_forgetting': directed_forgetting_post,
-		   'discount_titrate': discount_titrate_post,
               'dot_pattern_expectancy': DPX_post,
               'hierarchical_rule': hierarchical_post,
               'holt_laury_survey': holt_laury_post,
